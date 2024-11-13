@@ -13,7 +13,7 @@ display: grid;
 grid-template-columns: repeat(23,30px);
 grid-template-rows: repeat (2,80px);
 padding: 50px;
-
+    transform: scale(75%);
 }
 
 h1 {
